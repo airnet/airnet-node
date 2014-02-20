@@ -1,0 +1,3 @@
+[submodule "airnet"]
+	path = airnet
+	url = https://github.com/airnet/airnet.git
