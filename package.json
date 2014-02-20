@@ -1,0 +1,26 @@
+{
+  "name": "airnet-node",
+  "version": "0.0.1",
+  "description": "node client for the airnet protocol",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/airnet/airnet-node.git"
+  },
+  "keywords": [
+    "airnet"
+  ],
+  "author": "Christian Stewart",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/airnet/airnet-node/issues"
+  },
+  "homepage": "https://github.com/airnet/airnet-node",
+  "dependencies": {
+    "ws": "~0.4.31",
+    "ip": "~0.3.0"
+  }
+}
