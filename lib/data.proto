@@ -5,7 +5,8 @@ message peer
 }
 message save
 {
-  required int32 id = 1;
+  //String is sha1 hash of public key buffer
+  required string id = 1;
   required bytes key = 2;
   required bytes pkey = 3;
   repeated peer peers = 4;
