@@ -21,6 +21,10 @@
   "homepage": "https://github.com/airnet/airnet-node",
   "dependencies": {
     "ws": "~0.4.31",
-    "ip": "~0.3.0"
+    "ip": "~0.3.0",
+    "fibers": "~1.0.1",
+    "protobufjs": "~2.0.5",
+    "ursa": "~0.8.0",
+    "keypair": "~1.0.0"
   }
 }
