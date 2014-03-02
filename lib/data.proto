@@ -1,7 +1,8 @@
 message peer
 {
-
-
+  required string id = 1;
+  required string pkey = 2;
+  required string info = 3;
 }
 message save
 {
@@ -9,5 +10,6 @@ message save
   required string id = 1;
   required bytes key = 2;
   required bytes pkey = 3;
-  repeated peer peers = 4;
+  required string info = 4;
+  repeated peer peers = 5;
 }

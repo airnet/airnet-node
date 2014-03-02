@@ -25,6 +25,7 @@
     "fibers": "~1.0.1",
     "protobufjs": "~2.0.5",
     "ursa": "~0.8.0",
-    "keypair": "~1.0.0"
+    "keypair": "~1.0.0",
+    "underscore": "~1.6.0"
   }
 }

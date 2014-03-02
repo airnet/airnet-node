@@ -1,1 +1,1 @@
-exports = require('./lib/airnet.js')
+module.exports = require('./lib/airnet.js')
