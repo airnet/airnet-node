@@ -12,4 +12,6 @@ message save
   required bytes pkey = 3;
   required string info = 4;
   repeated peer peers = 5;
+  //All IPs we are currently connected to
+  repeated string connections = 6;
 }
