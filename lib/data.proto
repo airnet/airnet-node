@@ -3,6 +3,7 @@ message peer
   required string id = 1;
   required string pkey = 2;
   required string info = 3;
+  required bytes infohash = 4;
 }
 message save
 {
