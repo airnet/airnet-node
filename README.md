@@ -1,4 +1,4 @@
-![airnet-node](http://i.imgur.com/egTSDXq.png)
+![airnet-node](http://i.imgur.com/x3GxrWW.png)
 ===========
 
 node.js / npm client for airnet
